@@ -1,0 +1,43 @@
+.bg-darkblue {
+  background-color: #1E212D;
+}
+
+.header-white {
+  color: white;
+}
+
+.header-div {
+}
+
+.header-left-div {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.header-right-div {
+  text-align: center;
+}
+
+.iphone-img {
+  height: 500px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.download-btn{
+  margin: 40px;
+}
+
+.second-div{
+  background: #B68973;
+  height: 600px;
+}
+
+.third-div{
+  background: #FAF3E0;
+  height: 600px;
+}
+
+.fourth-div{
+  height: 100px;
+}
