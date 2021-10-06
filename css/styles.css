@@ -1,3 +1,7 @@
+h1{
+  font-family: "Montserrat";
+}
+
 .bg-darkblue {
   background-color: #1E212D;
 }
@@ -9,9 +13,14 @@
 .header-div {
 }
 
+.main-header{
+  font-size: 3em;
+  margin-bottom:30px;
+}
+
 .header-left-div {
   text-align: center;
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 .header-right-div {
@@ -25,19 +34,37 @@
 }
 
 .download-btn{
-  margin: 40px;
+  margin: 30px 30px;
 }
 
 .second-div{
-  background: #B68973;
-  height: 600px;
+  background: #FAF3E0;
 }
 
 .third-div{
-  background: #FAF3E0;
+  background: #FFF;
   height: 600px;
 }
 
 .fourth-div{
   height: 100px;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.logos-div{
+  text-align: center;
+}
+
+.logo{
+  padding: 100px 0;
+}
+
+.fa-dot-circle{
+  font-size: 4em;
+  margin-bottom: 20px;
+  color: #1E212D;
 }
