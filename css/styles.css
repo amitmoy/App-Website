@@ -48,8 +48,6 @@ h3{
 }
 
 .third-div{
-  background: #FFF;
-  height: 600px;
 }
 
 .fourth-div{
@@ -79,4 +77,32 @@ h3{
   width: 70%;
   margin: auto;
   font-size: 1.125em;
+}
+
+.carousel-indicators li {
+  background-color: #343a40;
+}
+
+.carousel-indicators .active {
+  background-color: #343a40;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(80%);
+}
+
+.carousel-item{
+  text-align: center;
+  padding: 20%;
+}
+
+.tester-img{
+  width: 80px;
+  height: 80px;
+  border-radius: 50% 50%;
+}
+
+.tester-text{
+  margin-bottom: 50px;
 }
