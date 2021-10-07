@@ -2,6 +2,11 @@ h1{
   font-family: "Montserrat";
 }
 
+h3{
+  font-family: "Montserrat";
+  font-size: 1.5em;
+}
+
 .bg-darkblue {
   background-color: #1E212D;
 }
@@ -35,6 +40,7 @@ h1{
 
 .download-btn{
   margin: 30px 30px;
+  width: 150px;
 }
 
 .second-div{
@@ -55,16 +61,22 @@ h1{
   font-weight: bold;
 }
 
-.logos-div{
+.features-div{
   text-align: center;
 }
 
-.logo{
-  padding: 100px 0;
+.feature-div{
+  padding: 70px 0;
 }
 
-.fa-dot-circle{
-  font-size: 4em;
+.feature-logo{
   margin-bottom: 20px;
-  color: #1E212D;
+  color: #B68973;
+}
+
+.feature-paragraph{
+  color: gray;
+  width: 70%;
+  margin: auto;
+  font-size: 1.125em;
 }
